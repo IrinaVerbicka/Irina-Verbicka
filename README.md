@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SalamanderIV
+- 👋 Hi, I’m @Irina Verbicka
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Python and QA.
 - 💞️ I’m looking to collaborate on programmer, beginner level.
