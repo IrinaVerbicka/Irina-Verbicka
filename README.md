@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Irina Verbicka
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python and QA.
-- 💞️ I’m looking to collaborate on programmer, beginner level.
+- 🌱 I’m currently learning Python, Java and QA.
+- 💞️ I’m looking to collaborate on programming, beginner level.
 - 📫 How to reach me irina.verbicka@inbox.lv
 
 <!---
